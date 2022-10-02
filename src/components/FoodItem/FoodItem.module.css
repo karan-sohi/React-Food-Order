@@ -1,0 +1,30 @@
+
+.fooditem {
+    display: flex;
+    justify-content: space-around;
+}
+
+.form {
+    text-align: center;
+    margin-top: 5vh;    
+}
+
+.form input {
+    width: 30%;
+}
+
+.form button {
+    display: block;
+    background-color: #8a2b06;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    color: white;
+    padding: 10px 0px;
+    margin: auto;   
+    margin-top: 10px;
+    width: 40%;
+    cursor: pointer;    
+}
+
+

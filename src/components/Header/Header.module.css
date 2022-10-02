@@ -1,0 +1,23 @@
+
+.header {
+    background-color: #8a2b06;
+    display: flex;  
+    justify-content: space-around;
+    color: white;
+    font-weight: 600;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10
+}
+
+.cart {
+    background-color: #611d02;
+    color: white;
+    margin: 25px 1px;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    padding: 10px 20px;
+    font: inherit;
+}

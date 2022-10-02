@@ -1,0 +1,16 @@
+.description {
+    background-color: #383838;
+    color: white;
+    width: 40%;
+    padding: 2px 10px;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    margin-top: -10rem;
+    text-align: center;
+    line-height: 1.3rem;
+}
+
+.description h1 {
+    margin-bottom: 40px;
+}

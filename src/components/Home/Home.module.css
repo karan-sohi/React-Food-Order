@@ -1,0 +1,15 @@
+.container {
+    background-color: black;
+    padding-bottom: 40px;
+}
+img {
+    width: 100%;
+}
+
+.mealItems {
+    border-radius: 20px;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}

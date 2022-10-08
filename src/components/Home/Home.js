@@ -4,6 +4,7 @@ import styles from "../Home/Home.module.css";
 import FoodImage from "../Home/food-img.jpg";
 import FoodSummary from "../FoodSummary/FoodSummary";
 import Meals from "../Meals/Meals";
+import Cart from "../Cart/Cart";
 
 const DUMMY_MEALS = [
   {
